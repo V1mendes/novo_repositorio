@@ -1,1 +1,2 @@
 # novo_repositorio
+addsafe
